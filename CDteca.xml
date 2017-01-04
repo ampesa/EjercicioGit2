@@ -116,4 +116,12 @@
 		<precio>12.50</precio>
 		<duracion>59 min.</duracion>
 	</cd>
+  <cd>
+		<titulo>Ballbraker</titulo>
+		<interprete>AC/DC</interprete>
+		<anyo>1995</anyo>
+		<estilo>Rock</estilo>
+		<precio>10.50</precio>
+		<duracion>48 min.</duracion>
+	</cd>
 </cds>
